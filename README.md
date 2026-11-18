@@ -90,7 +90,7 @@ JavaScript Array Method Documentation
 Official HTML and CSS Documentation
 AI-assisted learning tools for explanation and review
 Time Taken
-Approximately 2–3 hours.
+Approximately 2 hours.
 
 Author
 Nicholas Mavundlha
